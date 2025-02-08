@@ -10,7 +10,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 # Telegram bot token and channel ID
 TOKEN = '7586114085:AAFjsaAF-OnPXxsJ3voWFPU1oaYOxX_c2fM'  # Replace with your actual bot token
 ADMIN_IDS = [6103581760]  # Added new admin ID
-CHANNEL_ID = '-1002378560744' # Replace with your specific channel or group ID
+CHANNEL_ID = '-1002431485597' # Replace with your specific channel or group ID
 # Initialize the bot
 bot = telebot.TeleBot(TOKEN)
 
