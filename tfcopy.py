@@ -408,4 +408,4 @@ if __name__ == "__main__":
     try:
         bot.polling(none_stop=True)
     except Exception as e:
-        logging.error(f"An error occurred: {e}")") error occurred: {e}")")
+        logging.error(f"An error occurred: {e}")
